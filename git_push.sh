@@ -5,7 +5,7 @@
 git add .
 
 # 执行 git commit -m "update"
-git commit -m "msckf_vio"
+git commit -m "RO-VIO"
 
 # 执行 git push
 git push --set-upstream origin main
