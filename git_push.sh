@@ -8,4 +8,4 @@ git add .
 git commit -m "add VINS"
 
 # 执行 git push
-git push
+git push --set-upstream origin main
