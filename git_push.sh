@@ -5,7 +5,7 @@
 git add .
 
 # 执行 git commit -m "update"
-git commit -m "ORBslam3-ROS2"
+git commit -m "update"
 
 # 执行 git push
 git push --set-upstream origin main
